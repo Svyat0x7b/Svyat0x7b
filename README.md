@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Svyat0x7b/n
-- 👀 I’m interested in FrontEnd design/n
-- 🌱 I’m currently learning JavaScript/n
-- 📫 
+- 👋 Hi, I’m @Svyat0x7b
+- 👀 I’m interested in Frontend Design
+- 🌱 I’m currently learning React+Redux<3
 
-<!---
-Svyat0x7b/Svyat0x7b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
