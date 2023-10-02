@@ -1,6 +1,6 @@
-<p align="center">
-# 🦊 Svyat0x7b
-</p>
+<h2 align="center">
+🦊 Svyat0x7b
+</h2>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Dev+%2F+Software+Engineer" alt="Typing SVG" /></a>
@@ -11,9 +11,9 @@ Solution-oriented Junior Frontend Developer with a passion for creating dynamic 
 dynamic and collaborative environment.
 </p>
 
-<h1 align='center'>
-### Connect with me
-</h1>
+<h3 align='center'>
+Connect with me
+</h3>
 
 <p align='center'>
   <a href='https://www.linkedin.com/in/svyatoslav-tsykaliuk-058785292/'>
@@ -27,9 +27,9 @@ dynamic and collaborative environment.
   </a>
 </p>
 
-<h1 align='center'>
+<h3 align='center'>
 ### Skills
-</h1>
+</h3>
 
 <p align='center'>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
