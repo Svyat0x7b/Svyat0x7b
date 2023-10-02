@@ -28,7 +28,7 @@ Connect with me
 </p>
 
 <h3 align='center'>
-### Skills
+Skills
 </h3>
 
 <p align='center'>
