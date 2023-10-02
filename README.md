@@ -1,5 +1,5 @@
 <h2 align="center">
-🦊 Svyat0x7b
+🦊 Svyatoslav Tsykaliuk
 </h2>
 
 <p align="center">
