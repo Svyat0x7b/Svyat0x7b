@@ -11,9 +11,9 @@ Solution-oriented Junior Frontend Developer with a passion for creating dynamic 
 dynamic and collaborative environment.
 </p>
 
-<p align='center'>
+<h1 align='center'>
 ### Connect with me
-</p>
+</h1>
 
 <p align='center'>
   <a href='https://www.linkedin.com/in/svyatoslav-tsykaliuk-058785292/'>
@@ -27,9 +27,9 @@ dynamic and collaborative environment.
   </a>
 </p>
 
-<p align='center'>
+<h1 align='center'>
 ### Skills
-</p>
+</h1>
 
 <p align='center'>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
