@@ -1,12 +1,18 @@
+<p align="center">
 # 🦊 Svyat0x7b
+</p>
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Juniour+React+Dev%2FSoftware+Engineer)](https://git.io/typing-svg)
+</p>
 
+<p align="center">
 Solution-oriented Junior Frontend Developer with a passion for creating dynamic and user-friendly web applications. Proficient in React, including advanced skills in Context API, Redux Toolkit, Websockets, React Router, Axios, and Lodash. Committed to delivering top-notch solutions in a collaborative work environment, ensuring customer satisfaction through efficient problem-solving. I specialize in designing and implementing web applications that interact seamlessly with multiple APIs, integrate third-party services, and efficiently manage data. My ability to adapt to new challenges and my dedication to producing clean, well-documented code make me a valuable asset to any development team. I am eager to contribute my skills and enthusiasm for frontend development to support the success of innovative projects and continue to grow as a developer in a
 dynamic and collaborative environment.
+</p>
 
 ### Connect with me
-<p align='left'>
+<p align='center'>
   <a href='https://www.linkedin.com/in/svyatoslav-tsykaliuk-058785292/'>
     <img src='https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin'/>
   </a>
@@ -17,6 +23,24 @@ dynamic and collaborative environment.
     <img src='https://img.shields.io/badge/Telegram-Chat-blue?style=flat-square&logo=telegram'/>
   </a>
 </p>
+
+### Skills
+
+<p align='center'>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg" />
+</p>
+  
+<br />
 
 
 
