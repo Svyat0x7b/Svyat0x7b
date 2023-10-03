@@ -46,8 +46,8 @@ Skills
 </p>
   
 <br />
-
-
+<br />
+<br />
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Svyat0x7b&theme=react&show_icons=true)
 
 
